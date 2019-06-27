@@ -1,0 +1,16 @@
+PODS:
+  - AngleGradientBorderView (1.0.0)
+
+DEPENDENCIES:
+  - AngleGradientBorderView (from `../`)
+
+EXTERNAL SOURCES:
+  AngleGradientBorderView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AngleGradientBorderView: e3e9f5ce28f5949288e5c8e9171142597438ad93
+
+PODFILE CHECKSUM: e794b8416e79fb82604cd206a2e07c04d781b25d
+
+COCOAPODS: 1.7.2
