@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AngleGradientBorderView_Example' do
+  pod 'AngleGradientBorderView', :path => '../'
+
+  target 'AngleGradientBorderView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
